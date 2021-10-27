@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ComposeNavigation</string>
+    <string name="home">Home</string>
+    <string name="search">search</string>
+    <string name="document">Documents</string>
+    <string name="profile">Profile</string>
+</resources>
